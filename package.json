@@ -1,0 +1,22 @@
+{
+  "name": "BitAnalytics",
+  "version": "0.0.1",
+  "description": "Bitcoin Analytics",
+  "keywords": [
+    "BitAnalytics",
+    "Bitcoin",
+    "Analytics"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.5.3",
+    "ejs": "*",
+    "express": "3.2.6"
+  }
+}
